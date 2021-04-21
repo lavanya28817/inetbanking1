@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-19T13:49:29Z" name="Suite1" finished-at="2021-04-19T13:50:30Z" duration-ms="61754">
+    <groups>
+    </groups>
+    <test started-at="2021-04-19T13:49:29Z" name="Test1" finished-at="2021-04-19T13:50:30Z" duration-ms="61754">
+      <class name="com.inetbanking.testCases.TC_DeleteCustomer">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_DeleteCustomer@27d5a580]" started-at="2021-04-19T13:49:29Z" name="setup" finished-at="2021-04-19T13:49:41Z" duration-ms="11933" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:com.inetbanking.testCases.TC_DeleteCustomer@27d5a580]" started-at="2021-04-19T13:49:41Z" name="login" finished-at="2021-04-19T13:49:46Z" duration-ms="4799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="deleteCustomer(java.lang.String)[pri:1, instance:com.inetbanking.testCases.TC_DeleteCustomer@27d5a580]" started-at="2021-04-19T13:49:48Z" name="deleteCustomer" data-provider="DeleteCust" finished-at="2021-04-19T13:49:55Z" duration-ms="7472" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[25140]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method signature="deleteCustomer(java.lang.String)[pri:1, instance:com.inetbanking.testCases.TC_DeleteCustomer@27d5a580]" started-at="2021-04-19T13:49:55Z" name="deleteCustomer" data-provider="DeleteCust" finished-at="2021-04-19T13:50:02Z" duration-ms="6752" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[51534]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method signature="deleteCustomer(java.lang.String)[pri:1, instance:com.inetbanking.testCases.TC_DeleteCustomer@27d5a580]" started-at="2021-04-19T13:50:02Z" name="deleteCustomer" data-provider="DeleteCust" finished-at="2021-04-19T13:50:09Z" duration-ms="7099" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[80296]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method signature="deleteCustomer(java.lang.String)[pri:1, instance:com.inetbanking.testCases.TC_DeleteCustomer@27d5a580]" started-at="2021-04-19T13:50:09Z" name="deleteCustomer" data-provider="DeleteCust" finished-at="2021-04-19T13:50:16Z" duration-ms="6753" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[36078]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method signature="deleteCustomer(java.lang.String)[pri:1, instance:com.inetbanking.testCases.TC_DeleteCustomer@27d5a580]" started-at="2021-04-19T13:50:16Z" name="deleteCustomer" data-provider="DeleteCust" finished-at="2021-04-19T13:50:23Z" duration-ms="6822" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13390]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method signature="deleteCustomer(java.lang.String)[pri:1, instance:com.inetbanking.testCases.TC_DeleteCustomer@27d5a580]" started-at="2021-04-19T13:50:23Z" name="deleteCustomer" data-provider="DeleteCust" finished-at="2021-04-19T13:50:30Z" duration-ms="7003" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[57292]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_DeleteCustomer@27d5a580]" started-at="2021-04-19T13:50:30Z" name="tearDown" finished-at="2021-04-19T13:50:30Z" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetbanking.testCases.TC_DeleteCustomer -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
